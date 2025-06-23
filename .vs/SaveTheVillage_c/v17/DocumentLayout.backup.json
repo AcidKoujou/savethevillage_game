@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\SaveTheVillage_c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4D0314-977F-A9E7-3306-A5C8E5D88D4B}|Assembly-CSharp.csproj|c:\\unityprojects\\savethevillage_c\\assets\\scripts\\save the village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4D0314-977F-A9E7-3306-A5C8E5D88D4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save the village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4D0314-977F-A9E7-3306-A5C8E5D88D4B}|Assembly-CSharp.csproj|c:\\unityprojects\\savethevillage_c\\assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4D0314-977F-A9E7-3306-A5C8E5D88D4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SaveTheVillage_c\\Assets\\Scripts\\Statistics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Statistics.cs",
+              "ToolTip": "C:\\UnityProjects\\SaveTheVillage_c\\Assets\\Scripts\\Statistics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Statistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:06:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Save the Village.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\SaveTheVillage_c\\Assets\\Scripts\\Save the Village.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save the Village.cs",
+              "ToolTip": "C:\\UnityProjects\\SaveTheVillage_c\\Assets\\Scripts\\Save the Village.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save the Village.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:58:08.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
